@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Decarator", "Decarator\1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Bridge", "Bridge\11_Bridge.csproj", "{12F412F8-8C8D-4DA3-8793-A2F2B2EDFB9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Strategy", "Strategy\12_Strategy.csproj", "{B185E048-D49C-4AC6-8057-0EFCD1BB6191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Observer", "Observer\13_Observer.csproj", "{F1D5DC7F-3DE2-404B-A252-698BB7D8ABC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{12F412F8-8C8D-4DA3-8793-A2F2B2EDFB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F412F8-8C8D-4DA3-8793-A2F2B2EDFB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F412F8-8C8D-4DA3-8793-A2F2B2EDFB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B185E048-D49C-4AC6-8057-0EFCD1BB6191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B185E048-D49C-4AC6-8057-0EFCD1BB6191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B185E048-D49C-4AC6-8057-0EFCD1BB6191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B185E048-D49C-4AC6-8057-0EFCD1BB6191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D5DC7F-3DE2-404B-A252-698BB7D8ABC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D5DC7F-3DE2-404B-A252-698BB7D8ABC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D5DC7F-3DE2-404B-A252-698BB7D8ABC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D5DC7F-3DE2-404B-A252-698BB7D8ABC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
