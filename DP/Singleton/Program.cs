@@ -30,7 +30,7 @@ namespace Singleton
         static object _lockObject=new object();
         
 
-        //Dış Erişime Engelleme
+        //Dış Erişime Engelleme : Singletona uyma
         private CustomerManager()
         {
 
